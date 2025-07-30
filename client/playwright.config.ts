@@ -27,11 +27,8 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
-      name: 'chromium',
-      use: { 
-        ...devices['Desktop Chrome'],
-        channel: 'chrome'  // Use system Chrome instead of downloading Chromium
-      },
+      name: 'webkit',
+      use: { ...devices['Desktop Safari'] },
     },
   ],
 
