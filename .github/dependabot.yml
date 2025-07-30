@@ -8,7 +8,7 @@
 version: 2
 updates:
   - package-ecosystem: npm
-    directory: /
+    directory: /client
     schedule:
       interval: weekly
     groups:
