@@ -30,9 +30,6 @@ npm run test:e2e:ui
 # Run tests in headed mode (see browser)
 npm run test:e2e:headed
 
-# Run only WebKit tests
-npm run test:e2e:webkit
-
 # Debug tests
 npm run test:e2e:debug
 ```
