@@ -1,19 +1,7 @@
-# Pets workshop
+# github-sample/pets-workshop の日本コミュニティ補足テンプレートリポジトリ
 
-This repository contains the project for two guided workshops to explore various GitHub features. The project is a website for a fictional dog shelter, with a [Flask](https://flask.palletsprojects.com/en/stable/) backend using [SQLAlchemy](https://www.sqlalchemy.org/) and [Astro](https://astro.build/) frontend using [Svelte](https://svelte.dev/) for dynamic pages.
+元リポジトリ: https://github.com/github-samples/pets-workshop
 
-## Getting started
+テキスト部分の日本語化は以下のリポジトリにあります。
 
-> **[Get started learning about development with GitHub!](./content/README.md)**
-
-## License 
-
-This project is licensed under the terms of the MIT open source license. Please refer to the [LICENSE](./LICENSE) for the full terms.
-
-## Maintainers 
-
-You can find the list of maintainers in [CODEOWNERS](./.github/CODEOWNERS).
-
-## Support
-
-This project is provided as-is, and may be updated over time. If you have questions, please open an issue.
+https://github.com/vscodejp/github-samples-pets-workshop-japanese-content
